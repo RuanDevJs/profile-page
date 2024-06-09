@@ -9,9 +9,9 @@
 </ul>
 
 <div align="center">
-  
-  https://github.com/RuanDevJs/profile-page/assets/82915279/2a080fa0-54fd-4ae0-81e9-f41e61e17e99
-  
+
+https://github.com/RuanDevJs/profile-page/assets/82915279/770db6c5-2da9-4559-bca4-d8d858e99172
+
 </div>
 
 <h3> Technologies Stacks </h3>
