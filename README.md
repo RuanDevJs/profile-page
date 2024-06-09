@@ -1,4 +1,4 @@
-<h1 align="center">Profile Page</h1>
+<h1 align="center">Profile Page 👤</h1>
 <ul>
   <li>
     <p>Created by: <a href="https://www.linkedin.com/in/ruan-vitor-elp%C3%ADdio-61232b1b7/">  Ruan Vitor | Front End & Mobile Developer ⚡</a>  </p>
@@ -7,6 +7,12 @@
     <p><strong>ᴘᴀꜱꜱɪᴏɴᴀᴛᴇ ᴀʙᴏᴜᴛ ᴄʜᴀɴɢɪɴɢ ᴛʜᴇ ᴡᴏʀʟᴅ ᴡɪᴛʜ ᴛᴇᴄʜɴᴏʟᴏɢʏ 🔥</strong></p>
  </li>
 </ul>
+
+<div align="center">
+  
+  https://github.com/RuanDevJs/profile-page/assets/82915279/2a080fa0-54fd-4ae0-81e9-f41e61e17e99
+  
+</div>
 
 <h3> Technologies Stacks </h3>
 
@@ -38,13 +44,13 @@
 <p>Clone the project</p>
 
 ```bash
-  git clone https://github.com/RuanDevJs/[project-name]
+  git clone https://github.com/RuanDevJs/profile-page
 ```
 
 <p>Go to the project directory</p>
 
 ```bash
-  cd [project-name]
+  cd profile-page
 ```
 
 <code>Install dependencies</code>
